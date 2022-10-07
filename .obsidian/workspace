@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "6d47a23ac8dfab11",
+    "type": "split",
+    "children": [
+      {
+        "id": "24d473a9ef6cd90a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Running youtube-dl on Ubuntu 18.04, 20.04.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c89320de0fb3f3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a640f2ccf138ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28497b97c0e9b636",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "428f761b7bc5d218",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95584820c6824bd9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fdeae92692ea287e",
+    "type": "split",
+    "children": [
+      {
+        "id": "073498d197daa98e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b21c3b384ad0e87a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Running youtube-dl on Ubuntu 18.04, 20.04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e90e99af09ddacc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Running youtube-dl on Ubuntu 18.04, 20.04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7e08514c5d493e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1048fd203e4b2145",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Running youtube-dl on Ubuntu 18.04, 20.04.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "24d473a9ef6cd90a",
+  "lastOpenFiles": [
+    "HP Deskjet 1110 Series Printer Guide.md"
+  ]
+}
